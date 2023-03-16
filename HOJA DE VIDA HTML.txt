@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deivison Andres Monroy Torres</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="nombre">
+        <div class="foto">
+            <img src="WhatsApp Image 2023-03-07 at 6.05.30 PM.jpeg" alt="">
+        </div>
+
+        <div class="encabezado">
+            <p class="encabezado1">Deivison Andres Monroy Torres</p>
+            <p class="encabezado2">Ingeniria Informatica</p>
+        </div>
+    </div>
+
+    <div class="perfil">
+        <p class="p-1">Perfil</p><br><br>
+        <br><br><p class="p-2">Estudiante de Ingeniería informática de octavo semestre, con casi 10 año de experiencia en el campo financiero y BackOffice con la bolsa de valores de Colombia. He creado soluciones prácticas dentro de las operaciones de captación de dinero por medio de CDT’S basándome en el manejo del tiempo y del mercado, la organización y la productividad de las herramientas de la compañía, así como velar por la seguridad de la información, fraudes y ciberdelincuentes. <br>He adquirido conocimientos en ciencas basicas, Bd relacionales y no relacionales, diversos lenguajes de programacion, cuatro niveles de redes informaticas y a fines de la ingenieria informatica.</p>    
+    </div>
+
+    <div class="habilidades">
+        <div class="h-1">Habilidades<br><br>
+            <p class="h-2">Resolucion de Problemas:</p>
+            <p class="h-3">85%</p><br>
+            <p class="h-4">Comunicacion Asertiva:</p>
+            <p class="h-5">70%</p><br>
+            <p class="h-6">Flexibilidad:</p>
+            <p class="h-7">94%</p><br>
+            <p class="h-8">Productividad:</p>
+            <p class="h-9">92%</p><br>
+            <p class="h-10">Autodictica:</p>
+            <p class="h-11">79%</p><br>
+            <p class="h-12">Liderazgo:</p><br>
+            <p class="h-13">81%</p>
+        </div>
+    </div>
+
+
+
+    <div class="idioma">
+        <div class="i-1">Idioma<br><br>
+            <p class="i-2">Ingles:</p>
+            <p class="i-3">30%</p><br>
+        </div>
+    </div>
+    
+    <div class="referencias">
+        <div class="r-1">Referencias<br>
+            <p class="r-2">Morales Yamile </p><br>
+            <p class="r-3">Ecomerce / Especialista en Marketing Digital</p><br>
+            <p class="r-4">301-123-4567</p><br>
+            <p class="r-5">Restrepo Maria Eugenia</p><br>
+            <p class="r-6">Analista en Gestion Humana</p><br>
+            <p class="r-7">305-123-4567</p><br>
+    </div>
+        </div>
+
+    <div class="contacto">
+        <div class="c-1">Contacto</div><br>
+            <p class="c-2">301-221-0134</p><br><br>
+            <p class="c-3">damonroy@correo.iue.edu.co</p><br><br>
+            <p class="c-4">https://blogingenieriadesistemasiue.blogspot.com/</p><br><br>
+        </div>
+
+    <div class="ubicacion">
+        <div class="u-1">Ubicacion</div><br>
+            <p class="u-2">Envigado, Antioquia, Colombia</p><br><br>
+    </div>
+    
+    <div class="experiencia">
+        <div class="e-1">Experiencia laboral</div><br>
+        <p class="e-2">Compañia de Financiamiento TUYA S.A</p><br><br>
+        <p class="e-3">Aux. Captaciones / medellin, colombia</p><br>
+        <p class="e-4">Cumplir con las operacopmes de renovacion y constitucion de CDT’s en los tiempos estipulados por la bolsa de Valores de colombia (Deceval).</p><br><br><br>
+        <p class="e-5">Velar por la correcta informacion de las operaciones registradas en los sistemas de la compañia.</p><br><br>
+        <p class="e-6">Vigilar de forma optima y con seguidad de la informacion toda la trasabilidad de las cuentas y saldos que son custodiados por la compañia.</p><br><br>
+    </div>  
+
+    

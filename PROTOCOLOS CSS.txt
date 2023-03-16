@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2? family= Inter:wght@100 & family= Montserrat & family= Nanum+Gothic & family= Poppins:wght@100;200 & family= Roboto+Condensed:wght@300 & family= Shantell+Sans:ital,wght@0,300;1,300 & display=swap');
+
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-image: url('https://media.istockphoto.com/id/469820253/es/foto/motociclista-con-casco-en-sus-manos-fondo-oscuro.jpg?s=612x612&w=0&k=20&c=8paT34k6qH2GtLq0VJPT-t6dW-r3_toSIGVt8K4rLvs=');
+}
+
+
+.consulta {
+    margin: 10px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;    
+    padding: 5px;
+    color: whitesmoke;
+
+
+}
+
+.consulta1 {
+    font-size: 40px;
+    width: 50%;
+    height: 50%;
+    position: absolute;
+}
+
+.consulta2 {
+    text-align: justify;
+    color: #FFFFFF;
+    border: 1px solid #000000;
+
+}
+
+.consulta3 {
+    text-align: justify;
+    color: #FFFFFF;
+    border: 1px solid #000000;
+    font-size: 40px;
+}
+
+.consulta4{
+    text-align: justify;
+    color: #FFFFFF;
+    border: 1px solid #000000;
+
+}
+
+.consulta5{
+    text-align: justify;
+    color: #FFFFFF;
+    border: 1px solid #000000;
+    font-size: 40px;
+}
+
+.consulta6{
+    text-align: justify;
+    color: #FFFFFF;
+    border: 1px solid #000000;
+}
+
+.consulta7{
+    text-align: justify;
+    color: #FFFFFF;
+    border: 1px solid #000000;
+    font-size: 40px;
+}
+
+.consulta8{
+    text-align: justify;
+    color: #FFFFFF;
+    border: 1px solid #000000;
+
+}
+
+.consulta9{
+    text-align: justify;
+    color: #FFFFFF;
+    border: 1px solid #000000;
+    font-size: 40px;
+}
+
+.consulta10{
+    text-align: justify;
+    color: #FFFFFF;
+    border: 1px solid #000000;
+}
+
+.consulta11{
+    text-align: justify;
+    color: #FFFFFF;
+    border: 1px solid #000000;
+    font-size: 40px;
+}
+
+.consulta12{
+    text-align: justify;
+    color: #FFFFFF;
+    border: 1px solid #000000;
+}
+
+.consulta13{
+    text-align: justify;
+    color: #FFFFFF;
+    border: 1px solid #000000;
+    font-size: 40px;
+}
+
+.consulta14{
+    text-align: justify;
+    color: #FFFFFF;
+    border: 1px solid #000000;
+}

@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2? family= Inter:wght@100 & family= Montserrat & family= Nanum+Gothic & family= Poppins:wght@100;200 & family= Roboto+Condensed:wght@300 & family= Shantell+Sans:ital,wght@0,300;1,300 & display=swap');
+
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-image: url('https://thumbs.dreamstime.com/b/moto-honda-cbr-f-sobre-fondo-de-calle-en-oto%C3%B1o-noviembre-la-ciudad-uzhgorod-214244429.jpg');
+}
+
+
+.consulta {
+    margin: 10px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;    
+    padding: 5px;
+    color: whitesmoke;
+
+
+}
+
+.consulta1 {
+    font-size: 60px;
+    width: 50%;
+    height: 50%;
+    position: absolute;
+}
+
+.consulta2 {
+    text-align: justify;
+    color: #FFFFFF;
+    border: 1px solid #000000;
+}
+
+.consulta3 {
+    text-align: justify;
+    color: #FFFFFF;
+    border: 1px solid #000000;
+}
+
+.consulta4{
+    text-align: justify;
+    color: #FFFFFF;
+    border: 1px solid #000000;
+
+}
+
+.consulta5{
+    text-align: justify;
+    color: #FFFFFF;
+    border: 1px solid #000000;
+
+}
